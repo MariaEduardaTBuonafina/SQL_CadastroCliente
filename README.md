@@ -19,7 +19,7 @@ Este projeto consiste na criação de um banco de dados simples para armazenar i
 
 1. **Clone o repositório**
    ```sh
-   git clone https://github.com/seu-usuario/SQL_Cadastro_Clientes.git
+   git clone https://github.com/MariaEduardaTBuonafina/SQL_Cadastro_Clientes.git
    ```
 
 2. **Acesse o diretório do projeto**
